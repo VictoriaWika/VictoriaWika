@@ -11,5 +11,5 @@
 </a>
 </br>
 <a href="https://github.com/VictoriaWika/personal-website">
-  <img aling="right" src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaWika&repo=personal-website" />
+  <img aling="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=VictoriaWika&repo=personal-website" />
 </a>
