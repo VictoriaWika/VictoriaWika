@@ -16,9 +16,12 @@ I just graduated the [neuefische](https://www.neuefische.de/) Web Development Bo
 </a>
 
 #### How to contact me:
-[<img src="./linkedin.svg" style="padding: 10px">](https://www.linkedin.com/in/victoria-wika/)
-[<img src="./xing.svg" style="padding: 10px">](https://www.xing.com/profile/Victoria_Wika/cv)
+<div style="width: 80px; display: flex; justify-content: space-between;">
 
+[<img src="./linkedin.svg">](https://www.linkedin.com/in/victoria-wika/)
+
+[<img src="./xing.svg">](https://www.xing.com/profile/Victoria_Wika/cv)
+</div>
 <!--
 **VictoriaWika/VictoriaWika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
